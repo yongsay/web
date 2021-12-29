@@ -1,0 +1,275 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Noto Sans KR', sans-serif;
+}
+
+.navbar {
+  display: inline-block;
+  width: 100%;
+  background: white;
+  text-align: center;
+  float: none;
+  margin-bottom: -6px;
+}
+
+.navbar>div {
+  float: right;
+}
+
+.navbar>ul {
+  display: flex;
+  float: left;
+  margin: 0;
+  padding: 0;
+  padding-left: 10px;
+  list-style: none;
+  text-align: center;
+}
+
+.navbar>ul>li {
+  display: inline-block;
+  padding: 0;
+}
+
+.navbar a {
+  display: block;
+  text-decoration: none;
+  padding: 10px 20px;
+  color: #645346;
+}
+
+.navbar a:hover {
+  background: #F0F8FF;
+}
+
+.container1{
+color: white;
+padding: 5px;
+width: 400px;
+height: 90px;
+font-size: 25px;
+position: relative;
+left: 45.99%;
+top: 25px;
+}
+.container2{
+color: white;
+padding: 5px;
+width: 300px;
+height: 90px;
+font-size: 60px;
+position: relative;
+left: 35%;
+top: -30px;
+
+}
+.container3{
+color: white;
+padding: 5px;
+width: 700px;
+height: 90px;
+font-size: 60px;
+position: relative;
+left: 35%;
+top: -60px;
+y;
+}
+.container4{
+color: white;
+padding: 5px;
+width: 500px;
+height: 90px;
+font-size: 60px;
+position: relative;
+left: 38.8%;
+top: -30px;
+
+}
+.container5{
+color: white;
+padding: 5px;
+width: 400px;
+height: 90px;
+font-size: 60px;
+position: relative;
+left: 39.99%;
+top: -50px;
+
+}
+.back{
+  height: 538px;
+  background-image: url(back.png);
+}
+.Blogo1{
+  width: 160px;
+  height: 160px;
+  background-image: url(Blogo1.png);
+  position: relative;
+  left: 25%;
+  top: -230px;
+}
+.Blogo2{
+  width: 180px;
+  height: 180px;
+  background-image: url(Blogo2.png);
+  position: relative;
+  left: 67%;
+  top: -400px;
+}
+.botton{
+  position: relative;
+  top: -70%;
+}
+#arrow{
+  font-size: 1.0rem;
+}
+#morebotten{
+  text-decoration: none;
+  display: block;
+  border: 0.1px solid #F3EAE3;
+  width: 125px;
+  font-size: 1.0rem;
+  font-weight: 500;
+  margin: auto;
+  padding: 1rem;
+  border-radius: 20px;
+  background-color: #0C311B;
+  text-align: center;
+  color: #F3EAE3;
+}
+#morebotten:hover {
+  background: #122517;
+}
+.ae{
+  color: #26B9B4;
+  text-shadow: 2px 2px 2px gray;
+}
+.devel{
+  color: #C77025;
+  text-shadow: 2px 2px 2px gray;
+}
+.aboutme{
+  background-color: #F3EAE3;
+  height: 410px;
+}
+.aboutme1{
+  display: block;
+  position: relative;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #151514;
+  padding-top: 25px;
+}
+#clip{
+  font-size: 1.8rem;
+  color: #3C3838;
+}
+#clip2{
+  font-size: 1.8rem;
+}
+
+.aboutme2{
+  display: inline-block;
+  position: relative;
+  left: 270px;
+}
+
+.aboutme3{
+  display: inline-block;
+  position: relative;
+}
+
+.aboutme4{
+  display: inline-block;
+  position: relative;
+  right: 230px;
+}
+.aboutme5{
+  display: inline-block;
+  position: relative;
+  left: 280px;
+  top: -15px;
+  font-size: 1.5rem;
+}
+.aboutme6{
+  display: inline-block;
+  position: relative;
+  left: 29px;
+  top: -15px;
+}
+.aboutme7{
+  display: inline-block;
+  position: relative;
+  right: 200px;
+  top: -15px;
+}
+.aboutme8{
+  display: inline-block;
+  position: relative;
+  left: 280px;
+}
+.aboutme9{
+  display: inline-block;
+  position: relative;
+  left: 10px;
+}
+.aboutme10{
+  display: inline-block;
+  position: relative;
+  right: 209px;
+}
+.aboutme11{
+  display: inline-block;
+  position: relative;
+  left: 370px;
+  top: -15px;
+}
+.aboutme12{
+  display: inline-block;
+  position: relative;
+  left: 238px;
+  top: -15px;
+}
+.aboutme13{
+  display: inline-block;
+  position: relative;
+  left: 150px;
+  top: -15px;
+
+}
+.aboutmee{
+  display: flex;
+  position: relative;
+  text-align: center;
+  justify-content: space-around;
+  padding: 10px;
+  margin: 10px;
+  font-size: 1.2rem;
+  top: 12px;
+
+}
+i{
+  font-size: 3.1rem;
+}
+#kakao{
+  position: relative;
+  display: block;
+  text-decoration: none;
+  color: black;
+}
+#kakaologo{
+  position: relative;
+  display: block;
+  top: -100px;
+  right: 120px;
+}
+.skills{
+  background-color: #E9BE23;
+  height: 990px;
+}
+.project{
+  background-color: #48A4EC;
+  height: 1390px;
+}
